@@ -10,7 +10,7 @@ app.get('/', (req, res) => {
         <h1>Welcome to My first DevOps Capstone Project!</h1>
         <h2>Node.js + Express Application</h2>
         <p>Successfully deployed my first application</p>
-        <p>CI/CD Pipeline using Jenkins and Docker</p>
+        <p>This is aCI/CD Pipeline using Jenkins and Docker</p>
     `);
 });
 
