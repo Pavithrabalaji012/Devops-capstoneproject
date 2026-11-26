@@ -234,4 +234,3 @@ app.listen(PORT, '0.0.0.0', () => {
     console.log(`Server running on port ${PORT}`);
 });
 
-// Final end-to-end CI/CD pipeline validation
