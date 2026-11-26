@@ -191,7 +191,7 @@ app.get('/', (req, res) => {
         <main class="container">
             <div class="tag">MY DEVOPS JOURNEY</div>
 
-            <h1>Welcome to My <span>DevOps</span> Capstone Project!</h1>
+            <h1>Welcome to my <span>DevOps</span> Capstone Project!</h1>
 
             <h2>Node.js + Express Application</h2>
 
