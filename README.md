@@ -74,7 +74,7 @@ docker build -t pavithradhrithi/devops-capstone-project:latest .
 ### Step 5: Run the Docker Container
 
 ```bash
-docker run -d \ --restart unless-stopped \ -p 80:3000 \ --name nodejs-app \ pavithradhrithi/devops-capstone-project:latest
+docker run -d --restart unless-stopped -p 80:3000 --name nodejs-app pavithradhrithi/devops-capstone-project:latest
 
 docker ps ###for checking if the container is running
 ```
